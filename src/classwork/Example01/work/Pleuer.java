@@ -1,4 +1,4 @@
-package classwork.xample01.ork;
+package classwork.Example01.work;
 
 public class Pleuer {
     private int salary;

@@ -1,7 +1,7 @@
-package classwork.xample01;
-import classwork.xample01.ork.Pleuer;
+package classwork.Example01;
+import classwork.Example01.work.Pleuer;
 
-public class Ain {
+public class Main {
     public static void main(String[] args) {
         Pleuer pleuer=new Pleuer("Janet", "Meneger", 4000);
         System.out.println(pleuer.getName()+",works 88"+ pleuer.getPosition()+",gets"
