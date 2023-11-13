@@ -1,6 +1,4 @@
-package ClassworkDon;
-
-import java.util.Random;
+package Classwork;
 
 //public class Aufgabe2 {
    // public static int[]generateArray(int lenght, int min, int max){
