@@ -1,11 +1,11 @@
-package classwork.Example01.work;
+package classwork.example01.work;
 
 public class Pleuer {
     private int salary;
     private String position;
     private String name;
 
-    public Pleuer (String name, String position, int salary) {
+    public Pleuer(String name, String position, int salary) {
         this.name = name;
         this.position = position;
         this.salary = salary;

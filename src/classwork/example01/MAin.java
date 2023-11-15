@@ -1,9 +1,8 @@
-package classwork.Example01;
-import classwork.Example01.work.Pleuer;
+package classwork.example01;
 
 public class Main {
     public static void main(String[] args) {
-        Pleuer pleuer=new Pleuer("Janet", "Meneger", 4000);
+        classwork.example01.work.Pleuer pleuer=new classwork.example01.work.Pleuer("Janet", "Meneger", 4000);
         System.out.println(pleuer.getName()+",works 88"+ pleuer.getPosition()+",gets"
                 +pleuer.getSalary()+"  per month;");
         System.out.println("Time for raise!");
